@@ -1,0 +1,6 @@
+.idea
+.vscode
+target
+venv
+__pycache__
+*.iml
